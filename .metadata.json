@@ -1,0 +1,14 @@
+[
+  {
+    "package": "colf",
+    "oncran": true
+  },
+  {
+    "package": "RDota2",
+    "oncran": true
+  },
+  {
+    "package": "tableHTML",
+    "oncran": true
+  }
+]

@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "colf"]
+	path = colf
+	url = https://github.com/lyzander/colf
+	shallow = true
+	registered = true
+[submodule "RDota2"]
+	path = RDota2
+	url = https://github.com/lyzander/rdota2
+	shallow = true
+	registered = true
+[submodule "tableHTML"]
+	path = tableHTML
+	url = https://github.com/lyzander/tablehtml
+	shallow = true
+	registered = true
